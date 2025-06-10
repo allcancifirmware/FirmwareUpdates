@@ -1,2 +1,2 @@
 # FirmwareUpdates
-Atualização fill
+Atualização fill placa só wifi
